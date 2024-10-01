@@ -8,50 +8,50 @@ Algoritmo asd
     Repetir
         Escribir "Ingrese la hora de entrada (formato de 24 horas, máx. 23)"
         Leer horadeentrada
-        Si horadeentrada > 23 Entonces
+        Si horadeentrada > 23 o horadeentrada < 0 Entonces
             Escribir "La hora ingresada no es válida."
         FinSi
-    Hasta Que horadeentrada <= 23
+    Hasta Que horadeentrada <= 23 o horadeentrada >= 1
 	
     Repetir
         Escribir "Ingrese los minutos de entrada (formato 0 - 59)"
         Leer minutodeentrada
-        Si minutodeentrada > 59 Entonces
+        Si minutodeentrada > 59 o minutodeentrada < 0 Entonces
             Escribir "Los minutos ingresados no son válidos."
         FinSi
-    Hasta Que minutodeentrada <= 59
+    Hasta Que minutodeentrada <= 59  o minutodeentrada >= 1
 	
     Repetir
         Escribir "Ingrese los segundos de entrada (formato 0 - 59)"
         Leer segundodeentrada
-        Si segundodeentrada > 59 Entonces
+        Si segundodeentrada > 59 o segundodeentrada < 0 Entonces
             Escribir "Los segundos ingresados no son válidos."
         FinSi
-    Hasta Que segundodeentrada <= 59
+    Hasta Que segundodeentrada <= 59 o segundodeentrada >= 1
 	
     Repetir
         Escribir "Ingrese la hora de salida (formato de 24 horas, máx. 23)"
         Leer horadesalida
-        Si horadesalida > 23 Entonces
+        Si horadesalida > 23 o horadesalida < 0 Entonces
             Escribir "La hora ingresada no es válida."
         FinSi
-    Hasta Que horadesalida <= 23
+    Hasta Que horadesalida <= 23 o horadesalida >= 1
 	
     Repetir
         Escribir "Ingrese los minutos de salida (formato 0 - 59)"
         Leer minutodesalida
-        Si minutodesalida > 59 Entonces
+        Si minutodesalida > 59 o minutodesalida < 0  Entonces
             Escribir "Los minutos ingresados no son válidos."
         FinSi
-    Hasta Que minutodesalida <= 59
+    Hasta Que minutodesalida <= 59 o minutodesalida >= 1
 	
     Repetir
         Escribir "Ingrese los segundos de salida (formato 0 - 59)"
         Leer segundodesalida
-        Si segundodesalida > 59 Entonces
+        Si segundodesalida > 59 o segundodesalida < 0 Entonces
             Escribir "Los segundos ingresados no son válidos."
         FinSi
-    Hasta Que segundodesalida <= 59
+    Hasta Que segundodesalida <= 59 o segundodesalida >= 1
 	
     // Proceso
     // Calcular el tiempo total en horas, minutos y segundos
