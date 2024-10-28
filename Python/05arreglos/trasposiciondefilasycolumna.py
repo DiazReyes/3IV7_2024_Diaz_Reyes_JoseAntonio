@@ -33,3 +33,4 @@ if tamano == 3 or tamano == 5:
     imprimir_matriz(matriz_transpuesta)
 else:
     print("Tamaño no válido. Por favor, ingrese 3 o 5.")
+ 
