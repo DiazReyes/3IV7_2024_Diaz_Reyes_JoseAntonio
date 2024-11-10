@@ -1,0 +1,1 @@
+nombre: 1, tipo: , color: 1, costo: 1, ataque: 1, defensa: 1, habilidad: 1, rareza: 
