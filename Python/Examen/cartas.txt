@@ -1,27 +1,4 @@
 nombre,tipo,color,costo,ataque,defensa,habilidad,rareza
 Dragón de Fuego,Criatura,Rojo,5,5,5,Vuela,Rara
 Hechizo de Curación,Hechizo,Blanco,2,0,0,Recupera 5 puntos de vida,Común
-Guerrero de la Luz,Criatura,Blanco,3,3,3,Protección contra criaturas rojas,Inusual
-Hechizo de Rayo,Hechizo,Rojo,3,0,0,Inflige 4 puntos de daño,Común
-Guardia del Bosque,Criatura,Verde,4,2,4,Vigilancia,Inusual
-Cura Mágica,Hechizo,Blanco,2,0,0,Recupera 3 puntos de vida,Común
-Fénix Resurgente,Criatura,Rojo,6,4,4,Cuando muere, vuelve a la mano,Rara
-Mago de la Tormenta,Criatura,Azul,4,3,3,Scry 1,Inusual
-Héroe del Pueblo,Criatura,Blanco,3,2,2,Lucha,Común
-Destructor de Mundos,Criatura,Negro,7,6,6,Destruye un permanente,Rara
-Espectro del Abismo,Criatura,Negro,5,4,4,Vuela,Inusual
-Cazador de Sombras,Criatura,Negro,3,3,2,Destello,Común
-Vidente de la Noche,Criatura,Azul,4,2,3,Scry 2,Inusual
-Terremoto,Hechizo,Rojo,5,0,0,Destruye todas las criaturas con coste 2 o menos,Rara
-Bestia de la Selva,Criatura,Verde,4,4,4,Prisa,Común
-Ilusión del Mar,Criatura,Azul,3,2,2,No puede ser bloqueada,Inusual
-Rugido de la Tierra,Hechizo,Verde,4,0,0,Aumenta la fuerza de una criatura,Común
-Orbe de Sabiduría,Artefacto,Incoloro,3,0,0,Robar una carta,Rara
-Vínculo de Vida,Hechizo,Blanco,2,0,0,Ganas vida igual al coste,Inusual
-Maestro de la Llama,Criatura,Rojo,4,3,2,Cuando muere, hace 2 puntos de daño,Común
-Guardián de la Luz,Criatura,Blanco,3,2,3,Protección contra criaturas negras,Inusual
-Plaga del Infinito,Hechizo,Negro,5,0,0,Destruye todas las criaturas,Rara
-Espíritu de la Selva,Criatura,Verde,4,3,5,Aumenta 1 punto de vida,Inusual
-Fuego Eterno,Hechizo,Rojo,3,0,0,Inflige 3 puntos de daño,Común
-
-
+...

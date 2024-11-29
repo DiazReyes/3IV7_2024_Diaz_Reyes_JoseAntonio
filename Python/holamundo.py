@@ -27,10 +27,10 @@
 
 #while numero <= 10 :
 
-#print('Resultado :' , 2 * numero)
-#print("antes", numero)
+    #print('Resultado :' , 2 * numero)
+    #print("antes", numero)
 #numero+=1
-#print("despues",numero)
+    #print("despues",numero)
 
 numero = [3, 7, 5, 8]
 for n in numero :

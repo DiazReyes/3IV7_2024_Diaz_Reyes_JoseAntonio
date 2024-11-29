@@ -58,3 +58,5 @@ elif opcion == "C":
 else:
     print("Opcion no valida")
     
+    #deberan de realizar el program de convertir el programa de convertir un numero decimal en binario y de binario en decimal
+    
